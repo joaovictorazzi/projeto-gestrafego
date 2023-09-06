@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    margin-left: 10vw;
+    font-size: 3em;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4em;
+}
+
+#risco {
+    width: 60vw;
+    height: 1px;
+    background-color: black;
+    margin-top: 5vh;
+    margin-bottom: 15vh;
+    margin-left: 10vw;
+}
+
+div#div1 {
+    max-width: 80vw;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    
+   
+}
+
+div#res {
+    max-width: 500px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+   
+
+}
+
+p {
+    font-size: 1.5em;
+}
+
+input {
+    height: 25px;
+    border-radius: 10px;
+    border: none;
+    height: 25px;
+    border-radius: 10px;
+    
+    border: none;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+
+}
+
+#ger {
+    text-align: center;
+    margin-left:25%;
+    width: 180px;
+    height: 95px;
+    font-size: 2em;
+}

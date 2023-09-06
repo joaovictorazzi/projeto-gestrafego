@@ -1,0 +1,84 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300;1,400&family=Montserrat:wght@800;900&display=swap');
+
+
+
+#risco {
+    width: 60vw;
+    height: 1px;
+    background-color: black;
+    margin-top: 5vh;
+    margin-bottom: 15vh;
+    margin-left: 30vw;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    max-width: 70vw;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 10vh;
+}
+
+#caixa {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    max-width: 500px;
+    width: 400px;
+    height: auto;
+    text-align: center;
+    
+    padding: 30px;
+    font-family:'Libre Franklin', sans-serif; ;
+    font-size: 2em;
+    font-weight: 100;
+    line-height: 10px;
+}
+
+#caixa > p#ptop {
+    padding-top: 30px;
+}
+
+img {
+    width: 300px;
+}
+
+input {
+    height: 25px;
+    border-radius: 10px;
+    border: none;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+#entrar {
+
+    width: 70%;
+    height: 45px;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+
+
+}
+
+#entrar:hover {
+    color: white;
+    background-color: rgb(54, 53, 53);
+}
+
+footer {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    max-width: 70vw;
+    margin: auto;
+}
+
+footer > h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4em;
+}
